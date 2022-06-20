@@ -1,8 +1,9 @@
 <h1 align="center">Camila Shimizu
 <h3 align="center">Estudante curiosa 🔎</h3>
 
-- 🌱 Atualmente faço bacharel em Ciências Matemáticas e da Terra na UFRJ e estudo programação por conta própria.
+- 🌱 Faço bacharel em Ciências Matemáticas e da Terra na UFRJ e estudo programação por conta própria.
 - 🤗 Gosto de vivenciar novos aprendizados e colaborar com compartilhamento de conhecimento.
+- 📖 Atualmente estudo Python, Git, HTML e CSS.
 - 🗣 Pronomes: Ela/Dela.
 
 <div align="center">
