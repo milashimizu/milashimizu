@@ -33,3 +33,5 @@ Descrição   | Instituição   | Ano | Tipo
    
 </div>
 
+![snake gif](https://github.com/milashimizu/milashimizu/blob/output/github-contribution-grid-snake.svg)
+
