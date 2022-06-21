@@ -23,7 +23,10 @@ Descrição   | Instituição   | Ano | Tipo
 [![Shimizu's GitHub stats](https://github-readme-stats.vercel.app/api?username=milashimizu&show_icons=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milashimizu&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
-    
+</div>
+
+![snake gif](https://github.com/milashimizu/milashimizu/blob/output/github-contribution-grid-snake.svg)
+   
 <div align="center">
 
 ### Onde me encontar 🔎
@@ -31,7 +34,3 @@ Descrição   | Instituição   | Ano | Tipo
   <a href = "mailto:shimizu.miii@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/camilashimizu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
-</div>
-
-![snake gif](https://github.com/milashimizu/milashimizu/blob/output/github-contribution-grid-snake.svg)
-
